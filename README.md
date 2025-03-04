@@ -30,4 +30,5 @@ This Python script is a text-based implementation of the classic word-guessing g
 ## Running the Game
 To run the game, simply execute the script in your Python environment:
 ```bash
-python hangman.py
+python main.py
+```
